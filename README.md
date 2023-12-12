@@ -1,5 +1,5 @@
 # David Paredes Rodríguez
-Programador Full Start Developer.
+Programador Full Stack Developer.
 
 # Aptitudes
 
